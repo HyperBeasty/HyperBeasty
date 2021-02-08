@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1> Hey 👋</h1>
 
-<!--
-**HyperBeasty/HyperBeasty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> I am HyperBeasty, I like to <a href="https://dis.gd/threads">code</a> sometimes.</h3>
 
-Here are some ideas to get you started:
+<h2>Some facts about me</h2>
+<ul>
+  <li>I like playing games, yes.</li>
+  <li>Cyber security stuff, yes</li>
+  <li>PHP, no</li>
+  <li>Why are you even reading this idk what to type anymore...got a lot of time on your hands? Go learn PHP or something idk.</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Current Projects</h2>
+<ul>
+  <li><a href="https://black-tooth.xyz">Black Tooth </a> - A multi-purpose bot ready to skill up and boost up your Discord server
+Also features moderation, fun, games and much more!</li>
+</ul>
+
+<h2>My stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HyperBeasty&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=7289da&bg_color=121212">
+
+<h2>Links</h2>
+
+<a href="https://discord.gg/bkWtN2mqFp"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> 
