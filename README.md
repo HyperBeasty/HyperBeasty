@@ -14,6 +14,9 @@
 <ul>
   <li><a href="https://black-tooth.xyz">Black Tooth </a> - A multi-purpose bot ready to skill up and boost up your Discord server
 Also features moderation, fun, games and much more!</li>
+  <li><a href="https://www.youtube.com/watch?v=Tt7bzxurJ1I">Seiko </a> - A multi-purpose anime bot, with myanimelist integration!</li>
+</ul>
+  <li><a href="https://www.youtube.com/watch?v=Tt7bzxurJ1I">Vouch Bot </a> -  A bot to help tackle scammers in marketplaces. Vouch Bot has employed many reputable members to accept/deny any vouches made.</li>
 </ul>
 
 <h2>My stats</h2>
